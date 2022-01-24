@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://st2.depositphotos.com/1084193/6298/v/950/depositphotos_62980165-stock-illustration-abstract-technology-background-business-development.jpg);
+}
+.aa{
+    width: 500px;
+    left: 150%;
+    right: 150%;
+}
+.AB{
+justify-content: space-around;
+}
+.AB{
+    font-size: 20px;
+    font-style:italic;
+}
+.bo{
+    background-color: lightcoral;
+    font-style: italic;
+    font-size: 20px;
+}
+.bo{
+    justify-content: center;
+}
